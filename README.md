@@ -1,5 +1,3 @@
-Đây là nội dung được chuẩn hóa dưới định dạng **README.md** chuyên nghiệp, tối ưu cho GitHub để bạn có thể copy và sử dụng ngay cho Project Lab 05 của mình.
-
 ---
 
 # 🚀 AI Tutor — Intelligent Learning Assistant (Internal Q&A System)
